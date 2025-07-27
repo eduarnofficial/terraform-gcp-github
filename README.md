@@ -45,9 +45,9 @@ Learn how to build VPCs, manage state, write reusable modules, and automate depl
 
 ## 💻 Getting Started Example (GCP VPC)
 
-terraform init
-terraform plan
-terraform apply
+terraform init<br>
+terraform plan <br>
+terraform apply <br>
 
 ---
 ### 👉 Contact Us > Eduarn [www.eduarn.com/contact-eduarn](https://www.eduarn.com/contact-eduarn)
