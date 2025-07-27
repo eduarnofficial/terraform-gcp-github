@@ -1,4 +1,4 @@
-# 🌐 Terraform Modules for GCP, AWS, and Azure — Reusable IaC Templates
+# 🌐 Terraform for GCP, AWS, and Azure — Reusable Infrastructure as Code (IaC)
 
 <img width="1081" height="428" alt="Terraform Modules for GCP, AWS, and Azure — Reusable IaC Templates" src="https://github.com/user-attachments/assets/f8944e6e-fb25-4a58-b9b7-f4344f811489" />
 
@@ -79,6 +79,6 @@ Explore more hands-on, expert-led training courses offered by Eduarn:
 
 ---
 
-🎓 **Explore all DevOps, Cloud, and AI training at [Eduarn](https://eduarn.com/?search=terraform)**
+🎓 **End to end DevOps, Cloud, and AI training at [Eduarn](https://eduarn.com/?search=terraform)**
 
 
