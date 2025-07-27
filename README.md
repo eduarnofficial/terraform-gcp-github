@@ -47,4 +47,4 @@ terraform init
 terraform plan
 terraform apply
 
-### 👉 [Contact Us > Eduarn](https://eduarn.com/contact-eduarn)
+### 👉 Contact Us > Eduarn www.eduarn.com/contact-eduarn
