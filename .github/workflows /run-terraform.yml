@@ -1,3 +1,15 @@
+# Eduarn
+#
+# **Eduarn** is a modern learning platform that delivers hands-on, instructor-led training in **DevOps, Cloud (AWS, Azure, GCP), Terraform, AI, and Data Engineering**. 
+#
+# We provide:
+# - ✅ One-on-one & group online sessions
+# - ✅ Courses for individuals, retail, and corporate teams
+# - ✅ Real-world labs using GitHub, CI/CD, and infrastructure as code (IaC)
+# - ✅ Affordable pricing with high-value expert instruction
+#
+# 🎓 Start learning with us: [https://eduarn.com/?search=terraform](https://eduarn.com/?search=terraform)
+
 name: 'Terraform Run'
 
 on:
@@ -57,10 +69,7 @@ jobs:
         cd terraform
         terraform plan -input=false
 
-      # On push to "main", build or change infrastructure according to Terraform configuration files
-      # Note: It is recommended to set up a required "strict" status check in your repository for "Terraform Cloud". See the documentation on "strict" required status checks for more information: https://help.github.com/en/github/administering-a-repository/types-of-required-status-checks
     - name: Terraform Apply
-      #if: github.ref == 'refs/heads/"main"' && github.event_name == 'push'
       run: |
         cd terraform
         terraform apply -auto-approve -input=false
