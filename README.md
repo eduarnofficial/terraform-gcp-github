@@ -50,9 +50,12 @@ terraform init
 terraform plan
 terraform apply
 
-### 👉 Contact Us > Eduarn www.eduarn.com/contact-eduarn
+---
+### 👉 Contact Us > Eduarn [www.eduarn.com/contact-eduarn](https://www.eduarn.com/contact-eduarn)
 
-**### 📚 Other Training from Eduarn**
+---
+
+### 📚 Other Training from Eduarn
 
 Explore more hands-on, expert-led training courses offered by Eduarn:
 
@@ -77,6 +80,6 @@ Explore more hands-on, expert-led training courses offered by Eduarn:
 
 ---
 
-🎓 **Explore all DevOps, Cloud, and AI training at [Eduarn](https://eduarn.com/?search=terraform)**  
+🎓 **Explore all DevOps, Cloud, and AI training at [Eduarn](https://eduarn.com/?search=terraform)**
 
 
