@@ -1,5 +1,8 @@
 # 🌐 Terraform Modules for GCP, AWS, and Azure — Reusable IaC Templates
 
+<img width="1081" height="428" alt="image" src="https://github.com/user-attachments/assets/f8944e6e-fb25-4a58-b9b7-f4344f811489" />
+
+
 Welcome to the **Terraform Multi-Cloud Infrastructure Modules** repo — your all-in-one source for production-ready, reusable **Infrastructure as Code (IaC)** modules built using **Terraform**.
 
 Online training with reusable Terraform modules to automate Google Cloud Platform (GCP) infrastructure. Learn to deploy VPCs, GCE, IAM, Cloud SQL, and more using best practices. Ideal for DevOps teams with GitHub CI/CD. Start building IaC on GCP the right way.
