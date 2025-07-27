@@ -45,7 +45,6 @@ Learn how to build VPCs, manage state, write reusable modules, and automate depl
 
 ## 💻 Getting Started Example (GCP VPC)
 
-```bash
 terraform init
 terraform plan
 terraform apply
