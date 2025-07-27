@@ -1,10 +1,8 @@
-# terraform-gcp-github
-Online training with reusable Terraform modules to automate Google Cloud Platform (GCP) infrastructure. Learn to deploy VPCs, GCE, IAM, Cloud SQL, and more using best practices. Ideal for DevOps teams with GitHub CI/CD. Start building IaC on GCP the right way.
-
-
 # 🌐 Terraform Modules for GCP, AWS, and Azure — Reusable IaC Templates
 
 Welcome to the **Terraform Multi-Cloud Infrastructure Modules** repo — your all-in-one source for production-ready, reusable **Infrastructure as Code (IaC)** modules built using **Terraform**.
+
+Online training with reusable Terraform modules to automate Google Cloud Platform (GCP) infrastructure. Learn to deploy VPCs, GCE, IAM, Cloud SQL, and more using best practices. Ideal for DevOps teams with GitHub CI/CD. Start building IaC on GCP the right way.
 
 This repository is perfect for:
 - DevOps Engineers
@@ -49,4 +47,4 @@ terraform init
 terraform plan
 terraform apply
 
-### 👉 [Contact Us > Eduarn]([[https://eduarn.com/?search=terraform](https://eduarn.com/contact-eduarn)](https://eduarn.com/contact-eduarn))
+### 👉 [Contact Us > Eduarn](https://eduarn.com/contact-eduarn)
