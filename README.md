@@ -1,4 +1,4 @@
-# 🌐 Terraform for GCP, AWS, and Azure — Reusable Infrastructure as Code (IaC)
+# 🌐 Terraform for GCP, AWS, and Azure — Reusable Infrastructure as Code (IaC) | Eduarn
 
 <img width="1081" height="428" alt="Terraform Modules for GCP, AWS, and Azure — Reusable IaC Templates" src="https://github.com/user-attachments/assets/f8944e6e-fb25-4a58-b9b7-f4344f811489" />
 
